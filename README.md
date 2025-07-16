@@ -2,7 +2,7 @@
 
 I’m a full-stack software engineer based in Port Harcourt, Nigeria — focused on building scalable systems with **Laravel**, **Vue.js**, and **WordPress**.
 
-Since 2018, I’ve led, launched, and contributed to platforms used across education, e-commerce, and business automation. My work bridges the gap between client delivery and software architecture.
+Since 2019, I’ve led, launched, and contributed to platforms used across education, e-commerce, and business automation. My work bridges the gap between client delivery and software architecture.
 
 ---
 
