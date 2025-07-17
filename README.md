@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Theodore Georgewill
+# 👋 Hi, I’m Theo
 
 I’m a full-stack software engineer based in Port Harcourt, Nigeria — focused on building scalable systems with **Laravel**, **Vue.js**, and **WordPress**.
 
