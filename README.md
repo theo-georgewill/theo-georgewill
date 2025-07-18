@@ -1,19 +1,18 @@
 # 👋 Hi, I’m Theo
 
-I’m a full-stack software engineer based in Port Harcourt, Nigeria — focused on building scalable systems with **Laravel**, **Vue.js**, and **WordPress**.
+I’m a full-stack software engineer focused on building scalable systems with **Laravel**, **Vue.js**, **React.js**, and **WordPress**.
 
 Since 2019, I’ve led, launched, and contributed to platforms used across education, e-commerce, and business automation. My work bridges the gap between client delivery and software architecture.
 
 ---
 
 ## 🛠 What I Do
-
-- ⚙️ **Lead Software Developer** at Terra Sunny  
-- 🧩 Specialize in building CRMs, booking systems, automation tools  
-- 🛠 Laravel, Vue.js, WordPress, REST APIs, OAuth2  
-- 🏆 Projects recognized by Martech Awards & Corporate LiveWire  
-- 📦 Maintain a public [software engineering portfolio](https://github.com/theo-georgewill/software-engineering)  
-- 📈 Over **1,700 hours** of CPD logged since 2018  
+  
+- Specialize in building CRMs, booking systems, automation tools  
+- Laravel, Vue.js, WordPress, REST APIs, OAuth2  
+- Projects recognized by Martech Awards & Corporate LiveWire  
+- Maintain a public [software engineering portfolio](https://github.com/theo-georgewill/software-engineering)  
+- Over **1,700 hours** of CPD logged since 2019  
 
 ---
 
