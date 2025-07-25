@@ -19,16 +19,16 @@ Since 2019, I’ve led, launched, and contributed to platforms used across educa
 ## 📂 Key Projects
 
 ### [`software-engineering`](https://github.com/theo-georgewill/software-engineering)  
-🧠 A structured portfolio for GTV, CEng, and employers — with case studies, CPD logs, skills, and reflections.
+A structured portfolio for GTV, CEng, and employers — with case studies, CPD logs, skills, and reflections.
 
 ### [`clientsync-alpha`](https://github.com/theo-georgewill/clientsync-alpha)  
-📊 Lightweight CRM with HubSpot sync, email reminders, and webhook handling.
+Lightweight CRM with HubSpot sync, email reminders, and webhook handling.
 
 ### [`bookr-booking-system`](https://github.com/theo-georgewill/booking-system)  
-📅 Flexible appointment platform with conflict detection, role-based access, and reminders.
+Flexible appointment platform with conflict detection, role-based access, and reminders.
 
 ### [`SocialScheduler`](https://github.com/theo-georgewill/SocialScheduler)  
-📆 Multi-platform social media scheduling tool with Facebook and Reddit API integration.
+Multi-platform social media scheduling tool with Facebook and Reddit API integration.
 
 ---
 
