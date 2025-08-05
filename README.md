@@ -35,10 +35,10 @@ Multi-platform social media scheduling tool with Facebook and Reddit API integra
 ## ⚙️ Tech Stack
 
 ```yaml
-Languages:   PHP, JavaScript, HTML, CSS, SQL
-Frameworks:  Laravel, Vue.js, Tailwind, Bootstrap, React
+Languages:   PHP, TypeScript, JavaScript, HTML, CSS, SQL
+Frameworks:  Laravel, React.js, Express.js, Vue.js, Tailwind, Bootstrap
 DevOps:      GitHub Actions, Docker, DigitalOcean
 CMS & Tools: WordPress, WP CLI, Git
-Database:    MySQL, SQLite
+Database:    MySQL, SQLite, PostgreSQL
 APIs:        REST, OAuth2, Facebook, Reddit, HubSpot
 ```
