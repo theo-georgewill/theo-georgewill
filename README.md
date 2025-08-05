@@ -9,9 +9,9 @@ Since 2019, I’ve led, launched, and contributed to platforms used across educa
 ## 🛠 What I Do
   
 - Specialize in building CRMs, booking systems, automation tools  
-- Laravel, Vue.js, WordPress, REST APIs, OAuth2  
+- Laravel, MERN, Vue.js, WordPress, REST APIs, OAuth2  
 - Projects recognized by Martech Awards & Corporate LiveWire  
-- Maintain a public [software engineering portfolio](https://github.com/theo-georgewill/software-engineering)  
+- Maintain a public [software engineering portfolio](https://github.com/theo-georgewill/softwar_engineering)  
 - Over **1,700 hours** of CPD logged since 2019  
 
 ---
@@ -21,7 +21,7 @@ Since 2019, I’ve led, launched, and contributed to platforms used across educa
 ### [`software_engineering`](https://github.com/theo-georgewill/software_engineering)  
 A structured portfolio for GTV, CEng, and employers — with case studies, CPD logs, skills, and reflections.
 
-### [`clientsync-alpha`](https://github.com/theo-georgewill/clientsync-alpha)  
+### [`clientsync`](https://github.com/theo-georgewill/clientsync-alpha)  
 Lightweight CRM with HubSpot sync, email reminders, and webhook handling.
 
 ### [`bookr`](https://github.com/theo-georgewill/booking-app)  
