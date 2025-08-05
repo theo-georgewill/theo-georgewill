@@ -24,7 +24,7 @@ A structured portfolio for GTV, CEng, and employers — with case studies, CPD l
 ### [`clientsync-alpha`](https://github.com/theo-georgewill/clientsync-alpha)  
 Lightweight CRM with HubSpot sync, email reminders, and webhook handling.
 
-### [`bookr-booking-system`](https://github.com/theo-georgewill/booking-system)  
+### [`bookr-booking-system`](https://github.com/theo-georgewill/booking-app)  
 Flexible appointment platform with conflict detection, role-based access, and reminders.
 
 ### [`SocialScheduler`](https://github.com/theo-georgewill/SocialScheduler)  
