@@ -18,7 +18,7 @@ Since 2019, I’ve led, launched, and contributed to platforms used across educa
 
 ## 📂 Key Projects
 
-### [`software-engineering`](https://github.com/theo-georgewill/software-engineering)  
+### [`software_engineering`](https://github.com/theo-georgewill/software_engineering)  
 A structured portfolio for GTV, CEng, and employers — with case studies, CPD logs, skills, and reflections.
 
 ### [`clientsync-alpha`](https://github.com/theo-georgewill/clientsync-alpha)  
