@@ -7,20 +7,16 @@ Since 2019, I’ve led, launched, and contributed to platforms used across educa
 
 ---
 
-## 🛠 What I Do
+## What I Do
   
 - Specialize in building CRMs, booking systems, automation tools  
-- Laravel, MERN, Vue.js, WordPress, REST APIs, OAuth2  
+- Laravel, MERN, React.js, WordPress, REST APIs, OAuth2  
 - Projects recognized by Martech Awards & Corporate LiveWire  
-- Maintain a public [software engineering portfolio](https://github.com/theo-georgewill/softwar_engineering)  
 - Over **1,700 hours** of CPD logged since 2019  
 
 ---
 
-## 📂 Key Projects
-
-### [`Software Engineering`](https://github.com/theo-georgewill/software_engineering)  
-A structured portfolio for GTV, CEng, and employers — with case studies, CPD logs, skills, and reflections.
+## Key Projects
 
 ### [`ClientSync`](https://github.com/theo-georgewill/clientsync-alpha)  
 Lightweight CRM with HubSpot sync, email reminders, and webhook handling.
@@ -33,7 +29,7 @@ Multi-platform social media scheduling tool with Facebook and Reddit API integra
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 ```yaml
 Languages:   PHP, TypeScript, JavaScript, HTML, CSS, SQL
