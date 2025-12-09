@@ -18,6 +18,9 @@ Since 2019, I’ve led, launched, and contributed to platforms used across educa
 
 ## Key Projects
 
+### [`Meta Ads Scraper`](https://github.com/theo-georgewill/meta-ads-library-scraper)  
+A high-reliability Meta (Facebook) Ads Library scraper. It captures GraphQL ad responses in real time, saves them into a structured local JSON database, and supports both full initial syncs and incremental updates.
+
 ### [`ClientSync`](https://github.com/theo-georgewill/clientsync-alpha)  
 Lightweight CRM with HubSpot sync, email reminders, and webhook handling.
 
