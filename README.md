@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Theo
 
 
-I’m a full-stack software engineer focused on building scalable systems with **Laravel**, **Express.js**, **Node.js**, **Vue.js**, **React.js**, and **WordPress**.
+I’m a senior full-stack software engineer focused on building scalable systems with **Laravel**, **Express.js**, **Nest.js**, **Node.js**, **Vue.js**, **React.js**, and **WordPress**.
 
 Since 2019, I’ve led, launched, and contributed to platforms used across education, e-commerce, and business automation. My work bridges the gap between client delivery and software architecture.
 
