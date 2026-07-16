@@ -1,44 +1,134 @@
-# 👋 Hi, I’m Theo
+# 👋 Hi, I'm Theo Georgewill
 
+<div align="center">
 
-I’m a senior full-stack software engineer focused on building scalable systems with **Laravel**, **Express.js**, **Nest.js**, **Node.js**, **Vue.js**, **React.js**, and **WordPress**.
+### Senior Full-Stack Software Engineer
 
-Since 2019, I’ve led, launched, and contributed to platforms used across education, e-commerce, and business automation. My work bridges the gap between client delivery and software architecture.
+Building scalable SaaS platforms, distributed systems, and modern web applications with **TypeScript**, **Next.js**, **NestJS**, and **PostgreSQL**.
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=theo-georgewill\&label=Profile%20Views\&color=0e75b6\&style=flat)
+![GitHub Followers](https://img.shields.io/github/followers/theo-georgewill?style=flat)
 
-## What I Do
-  
-- Specialize in building CRMs, booking systems, automation tools  
-- Laravel, MERN, React.js, WordPress, REST APIs, OAuth2  
-- Projects recognized by Martech Awards & Corporate LiveWire  
-- Over **1,700 hours** of CPD logged since 2019  
+</div>
 
 ---
 
-## Key Projects
+## 🚀 About Me
 
-### [`Meta Ads Scraper`](https://github.com/theo-georgewill/meta-ads-library-scraper)  
-A high-reliability Meta (Facebook) Ads Library scraper. It captures GraphQL ad responses in real time, saves them into a structured local JSON database, and supports both full initial syncs and incremental updates.
+I'm a **Senior Full-Stack Software Engineer** passionate about designing reliable, scalable software that solves real business problems.
 
-### [`ClientSync`](https://github.com/theo-georgewill/clientsync-alpha)  
-Lightweight CRM with HubSpot sync, email reminders, and webhook handling.
+My primary stack is **TypeScript**, **Node.js**, **NestJS**, **Next.js**, **React**, and **PostgreSQL**, and I enjoy building everything from backend APIs and distributed systems to polished frontend applications.
 
-### [`Bookr`](https://github.com/theo-georgewill/booking-app)  
-Flexible appointment platform with conflict detection, role-based access, and reminders.
+I'm particularly interested in:
 
-### [`SocialScheduler`](https://github.com/theo-georgewill/SocialScheduler)  
-Multi-platform social media scheduling tool with Facebook and Reddit API integration.
+* 🏗️ Building enterprise SaaS platforms
+* ⚡ Designing scalable backend APIs
+* ☁️ Cloud-native architectures
+* 🔐 Authentication & authorization
+* 🔄 Background job processing
+* 💳 Payment integrations
+* 🧩 Clean software architecture
+* 🚀 Developer experience
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
-```yaml
-Languages:   PHP, TypeScript, JavaScript, HTML, CSS, SQL
-Frameworks:  Laravel, React.js, Express.js, Vue.js, Tailwind, Bootstrap
-DevOps:      GitHub Actions, Docker, DigitalOcean
-CMS & Tools: WordPress, WP CLI, Git
-Database:    MySQL, SQLite, PostgreSQL
-APIs:        REST, OAuth2, Facebook, Reddit, HubSpot
-```
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,postgres,prisma,redis,docker,aws,git,github,vscode&perline=7" />
+
+</div>
+
+---
+
+## 💼 Featured Projects
+
+### 🏢 DealRoom
+
+A secure digital workspace for managing high-value real estate transactions from offer to closing.
+
+**Highlights**
+
+* Multi-party deal management
+* Role-based access control (RBAC)
+* Secure document management
+* Due diligence workflows
+* Escrow payment integration
+* Digital approvals
+* Activity timeline
+* Team collaboration and invitations
+
+#### Repositories
+
+[![Frontend](https://img.shields.io/badge/Frontend-Next.js-000000?style=for-the-badge\&logo=nextdotjs)](https://github.com/theo-georgewill/dealroom-web)
+[![Backend](https://img.shields.io/badge/Backend-NestJS-E0234E?style=for-the-badge\&logo=nestjs)](https://github.com/theo-georgewill/dealroom-api)
+
+**Built With**
+
+`Next.js` • `NestJS` • `PostgreSQL` • `Prisma ORM` • `Redis` • `BullMQ` • `AWS S3` • `Docker`
+
+---
+
+### 💼 JobSignal
+
+An intelligent platform that continuously discovers remote software engineering opportunities through automated job aggregation and company monitoring.
+
+**Highlights**
+
+* Multi-source job aggregation
+* Company opportunity monitoring
+* Hiring signal detection
+* Queue-based ingestion pipelines
+* Job normalization & deduplication
+* Scheduling and background processing
+
+#### Repositories
+
+[![Frontend](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)](https://github.com/theo-georgewill/jobsignal-frontend)
+[![Backend](https://img.shields.io/badge/Backend-NestJS-E0234E?style=for-the-badge\&logo=nestjs)](https://github.com/theo-georgewill/jobsignal-backend)
+
+**Built With**
+
+`React` • `NestJS` • `PostgreSQL` • `Prisma ORM` • `Redis` • `BullMQ`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=theo-georgewill&show_icons=true&hide_border=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theo-georgewill&layout=compact&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+* 🏢 Building **DealRoom**, a modern platform for secure real estate transactions
+* ⚡ Designing scalable backend architectures with NestJS
+* ☁️ Building cloud-native SaaS products
+* 🔄 Distributed systems and background job processing
+* 🧩 Creating maintainable, developer-friendly software
+
+---
+
+## 🤝 Connect With Me
+
+* 💼 LinkedIn: https://linkedin.com/in/theo-georgewill-734245132
+* 🌐 Portfolio: https://theo-georgewill.github.io
+
+---
+
+<div align="center">
+
+### Thanks for stopping by! 👋
+
+I'm always interested in collaborating on exciting projects, contributing to open source, and building software that makes a meaningful impact.
+
+⭐ If you find one of my projects useful, consider giving it a star.
+
+</div>
