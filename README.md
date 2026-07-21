@@ -87,8 +87,14 @@ An intelligent platform for discovering remote software engineering opportunitie
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=theo-georgewill&show_icons=true&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theo-georgewill&layout=compact&hide_border=true&langs_count=8" />
+  <img
+    height="170"
+    src="https://github-readme-stats-five-lovat-22.vercel.app/api?username=theo-georgewill&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats-five-lovat-22.vercel.app/api/top-langs/?username=theo-georgewill&layout=compact&theme=github_dark&hide_border=true"
+  />
 </p>
 
 ---
