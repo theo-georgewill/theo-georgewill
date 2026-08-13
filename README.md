@@ -4,6 +4,17 @@
 
 I build scalable SaaS platforms, distributed systems, and modern web applications using **TypeScript**, **Next.js**, **NestJS**, and **PostgreSQL**.
 
+<p align="left">
+  <img
+    height="170"
+    src="https://github-readme-stats-five-lovat-22.vercel.app/api?username=theo-georgewill&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats-five-lovat-22.vercel.app/api/top-langs/?username=theo-georgewill&layout=compact&theme=github_dark&hide_border=true"
+  />
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -81,21 +92,6 @@ An intelligent platform for discovering remote software engineering opportunitie
 **Built With**
 
 `React` • `NestJS` • `PostgreSQL` • `Prisma` • `Redis` • `BullMQ`
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats-five-lovat-22.vercel.app/api?username=theo-georgewill&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats-five-lovat-22.vercel.app/api/top-langs/?username=theo-georgewill&layout=compact&theme=github_dark&hide_border=true"
-  />
-</p>
 
 ---
 
